@@ -1,0 +1,2 @@
+UseMemo serve para salvar o valor de uma operaçao demorada que deve ser executada uma unica vez.
+Raramente é utilizado.
